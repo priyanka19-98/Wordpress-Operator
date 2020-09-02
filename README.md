@@ -1,7 +1,7 @@
 # Wordpress-Operator
 
 The Objective of this Operator is to demonstrate Wordpress kind of resource using Kuberentes controller pattern- [Operator](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/).Another objective of the repository is to show how to build the custom controller that encapsulates specific domain/application level knowledge. The Operator is built using the [operator-sdk framework](https://github.com/operator-framework/operator-sdk).
-If Wordpress and MySQL were to be deployed without operator on Kuberenetes, it can be reffered [here](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/). Lets understand how can this be achieved via Kubernetes Operator.
+If Wordpress and MySQL were to be deployed without operator on Kuberenetes, it can be referred [here](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/). Lets understand how can this be achieved via Kubernetes Operator.
 
 ## Prerequistites
 
