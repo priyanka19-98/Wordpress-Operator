@@ -112,6 +112,8 @@ The response should be like this:
 `http://192.168.99.101:31881`
 
 Copy the IP address and load the page in your browser to view your site: 
+
+
 ![alt text](https://raw.githubusercontent.com/kubernetes/examples/master/mysql-wordpress-pd/WordPress.png)
 
 
