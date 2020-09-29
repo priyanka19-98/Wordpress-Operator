@@ -7,7 +7,7 @@ If Wordpress and MySQL were to be deployed without operator on Kuberenetes, it c
 
 - golang v1.12+.
 - set GO111MODULE="on"
-- [Install the operator-sdk (version 15)](https://sdk.operatorframework.io/docs/golang/installation/)
+- [Install the operator-sdk (version 15)](https://sdk.operatorframework.io/docs/installation/install-operator-sdk/)
 - [minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 - [kubectl client](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
