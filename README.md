@@ -7,7 +7,7 @@ If Wordpress and MySQL were to be deployed without operator on Kuberenetes, it c
 
 - golang v1.12+.
 - set GO111MODULE="on"
-- [Install the operator-sdk (version 15)](https://sdk.operatorframework.io/docs/installation/install-operator-sdk/)
+- [Install the operator-sdk (version 0.15)](https://sdk.operatorframework.io/docs/installation/install-operator-sdk/)
 - [minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 - [kubectl client](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 
@@ -119,5 +119,8 @@ Copy the IP address and load the page in your browser to view your site:
 
 # Questions
 Please feel free to open up an issue.
+
+# Note
+The current operator code uses deprecated operator-sdk version. Please refer [here](https://github.com/priyanka19-98/wordpress-operator-latest) for operator-sdk v1+ 
 
 
